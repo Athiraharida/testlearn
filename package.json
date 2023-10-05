@@ -1,11 +1,7 @@
 {
-  "name": "root",
+  "name": "@maybephilipp/root-pkg",
+  "version": "1.0.0",
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
-  "dependencies": {},
-  "devDependencies": {
-    "lerna": "^7.3.0"
-  }
+  "type": "module",
+  "workspaces": ["packages/*"]
 }
