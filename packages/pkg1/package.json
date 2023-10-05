@@ -8,7 +8,7 @@
     "./*": "./*"
   },
   "dependencies": {
-    "@maybephilipp/pkg3": "^1.0.1",
+    "@maybephilipp/pkg3": "^1.0.3",
     "clsx": "^1.2.1"
   }
 }
